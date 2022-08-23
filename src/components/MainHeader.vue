@@ -106,6 +106,10 @@ h1{
   line-height: 70px;
 }
 
+.philosophy{
+  line-height: 25px;
+}
+
   ul li {
     color: $MainBrand;
     text-transform: uppercase;

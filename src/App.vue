@@ -82,4 +82,39 @@ ul {
   }
 }
 
+.dark {
+  color: $White;
+  margin-top: 2.5rem;
+  background-color: $MainBrand;
+  &:hover {
+    color: $MainBrand;
+    background-color: $btnInvert;
+  }
+}
+
+.item_zone {
+  position: relative;
+  width: 51%;
+}
+
+.section_shopping {
+  width: 40%;
+  align-self: center;
+  margin-bottom: 400px;
+}
+
+.arrow {
+  position: relative;
+  cursor: pointer;
+  background-color: rgba($MainBrand, 0.5);
+  color: $White;
+  padding: 20px 10px;
+  bottom: 50%;
+}
+
+.arrow_right {
+  right: 0;
+  position: absolute;
+}
+
 </style>
