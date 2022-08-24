@@ -64,7 +64,6 @@ h6{
 }
 
 h1{
-  color: $MainBrand;
   font-size: 28px;
 }
 

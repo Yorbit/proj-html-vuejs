@@ -92,6 +92,11 @@ ul {
   }
 }
 
+.title{
+  color: $MainBrand;
+  font-size: 28px;
+}
+
 .item_zone {
   position: relative;
   width: 51%;
