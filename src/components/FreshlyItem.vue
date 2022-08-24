@@ -22,7 +22,7 @@
               :productPriceKg="product.priceKg"/>
           </div>
             <i class="fa-solid fa-chevron-left arrow"></i>
-            <i class="fa-solid fa-chevron-right arrow arrow_right"></i>
+            <i class="fa-solid fa-chevron-right arrow fix"></i>
         </section>
   </div>
 </template>
@@ -78,5 +78,10 @@ export default {
 
 .label_products {
   width: 70%;
+}
+
+.fix {
+  left: 1060px;
+  position: relative;
 }
 </style>
