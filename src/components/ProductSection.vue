@@ -20,7 +20,7 @@
           :productPrice="product.price"
           :productPriceKg="product.priceKg"/>
       </div>
-      <i class="fa-solid fa-chevron-left arrow"></i>
+      <i class="fa-solid fa-chevron-left arrow down"></i>
       <i class="fa-solid fa-chevron-right arrow arrow_right"></i>
     </section>
   </div>

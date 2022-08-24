@@ -105,7 +105,6 @@ ul {
 .section_shopping {
   width: 40%;
   align-self: center;
-  margin-bottom: 400px;
 }
 
 .arrow {
@@ -121,5 +120,4 @@ ul {
   right: 0;
   position: absolute;
 }
-
 </style>

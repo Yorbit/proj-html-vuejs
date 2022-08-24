@@ -33,6 +33,7 @@ export default {
 <style lang="scss" scoped>
 @import "../styles/generals.scss";
 .item_special {
+  cursor: pointer;
   position: relative;
   width: 47%;
   img {
