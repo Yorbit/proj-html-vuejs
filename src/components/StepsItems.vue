@@ -45,6 +45,10 @@ img {
   width: 100%;
   height: 100%;
 }
+.zone_img{
+  line-height: 0;
+}
+
 .info{
     position: absolute;
     color: $White;
@@ -74,7 +78,6 @@ img {
         position: absolute;
         width: 30%;
         bottom: 15%;
-        width: 30%;
     }  
 }
 .steps_zone:nth-child(1) .title_steps{

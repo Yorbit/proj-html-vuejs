@@ -68,9 +68,9 @@ export default {
   margin: 30px 0;
 }
 .extra {
-  height: 617px;
+  height: 615px;
   margin: 65px 0;
-  background-color: $PearlBush;
+  background-color: rgba($PearlBush, 0.6);
     .cit{
         margin: 100px auto;
         width: 70%;
