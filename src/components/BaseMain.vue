@@ -6,6 +6,7 @@
     <BakerySteps />
     <LocationSection />
     <SocialSection />
+    <OrderSection />
   </main>
 </template>
 
@@ -16,6 +17,7 @@ import FreshlyItem from './FreshlyItem.vue';
 import BakerySteps from './BakerySteps.vue';
 import LocationSection from './LocationSection.vue';
 import SocialSection from './SocialSection.vue';
+import OrderSection from './OrderSection.vue';
 
 export default {
     name: 'BaseMain',
@@ -26,6 +28,7 @@ export default {
     BakerySteps,
     LocationSection,
     SocialSection,
+    OrderSection,
 }
 }
 </script>
