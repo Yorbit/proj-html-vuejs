@@ -48,7 +48,9 @@ img {
 .zone_img{
   line-height: 0;
 }
-
+h6{
+  font-weight: 400;
+}
 .info{
     position: absolute;
     color: $White;

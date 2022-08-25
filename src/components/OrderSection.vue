@@ -34,6 +34,7 @@ export default {};
   h6{
     margin-top:100px;
     font-size: 12px;
+    font-weight: 500;
   }
   h1 {
     margin: 1rem 0;

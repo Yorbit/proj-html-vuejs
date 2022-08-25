@@ -82,6 +82,7 @@ export default {
             h6{
                 padding-bottom: 30px;
                 color: $Mamba;
+                font-weight: 400;
             }
     }
 }
