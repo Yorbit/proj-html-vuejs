@@ -4,6 +4,7 @@
     <SpecialEvent />
     <FreshlyItem />
     <BakerySteps />
+    <LocationSection />
   </main>
 </template>
 
@@ -12,6 +13,7 @@ import ProductSection from './ProductSection.vue';
 import SpecialEvent from './SpecialEvent.vue';
 import FreshlyItem from './FreshlyItem.vue';
 import BakerySteps from './BakerySteps.vue';
+import LocationSection from './LocationSection.vue';
 
 export default {
     name: 'BaseMain',
@@ -20,6 +22,7 @@ export default {
     SpecialEvent,
     FreshlyItem,
     BakerySteps,
-    }
+    LocationSection,
+}
 }
 </script>
