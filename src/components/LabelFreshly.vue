@@ -40,6 +40,7 @@ export default {
 .img_Freshly {
   width: 100%;
   position: relative;
+  line-height: 0;
     span {
         transform: translate(-50%, -50%);
         position: absolute;
